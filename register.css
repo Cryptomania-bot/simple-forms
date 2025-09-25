@@ -1,0 +1,17 @@
+div{
+background-color: transparent;
+color: cadetblue;
+position:absolute; margin: 100px 167px;
+
+border-radius: 5px;
+justify-content: center;
+background-attachment: fixed;
+opacity:;
+  transition: border-color 0.3s, box-shadow 0.3s;
+
+}
+ body{
+    background-image:url(./image.jpg) ;
+background-size: cover;
+background-repeat: no-repeat;
+ }
