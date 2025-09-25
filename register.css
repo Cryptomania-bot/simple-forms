@@ -9,9 +9,11 @@ background-attachment: fixed;
 opacity:;
   transition: border-color 0.3s, box-shadow 0.3s;
 
+  
+
 }
  body{
-    background-image:url(./image.jpg) ;
-background-size: cover;
-background-repeat: no-repeat;
+  background-image: url(image.jpg);
+    
+
  }
